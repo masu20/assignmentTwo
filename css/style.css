@@ -1,0 +1,115 @@
+body{}
+
+img{
+
+}
+
+header{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;}
+
+.logo{
+    width: 20%;
+    float: left;
+ }
+
+nav{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 46px 10px;
+    display: block;
+    color: #333;
+}
+nav ul li a:hover{}
+
+
+/* -- info-section -- */
+
+.info-section{
+    margin: 0;
+}
+
+.info{
+    float: left;
+    width: 30.33%;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color:;
+    background: lightgrey;
+    margin: 15px;
+    margin-height: 100%;
+    box-shadow: 15px -12px 7px 1px #8e8b8ba1;
+}
+
+/* -- info-section -- */
+
+
+/* -- gallery-section --*/
+body{
+    margin: 0;
+}
+
+.gallery-section{
+    width: 1000px;
+    margin: 0 auto;
+    background: #d3d3d38f;
+}
+
+.heading{}
+
+h1{
+    margin: 0;
+    font-size: 45px;
+    padding: 50px;
+    text-align: center;
+}
+
+.gallery{
+    width: 333.33px;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    background: #d3d3d38f;
+}
+
+img{
+    max-width: 100%;
+}
+
+/* -- gallery-section --*/
+
+/* -- footer-section --*/
+.footer{
+    width: 1000px;
+    text-align: center;
+    background: #3f51b5ed;
+    color: white;
+    padding: 10px;
+}
+
+.footer a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+/* -- footer-section --*/
+
